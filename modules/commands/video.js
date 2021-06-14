@@ -7,7 +7,7 @@ module.exports.config = {
 	commandCategory: "media",
 	usages: "[Text]",
 	cooldowns: 10,
-	usages: "[link or content need search]",
+	usages: "[https://www.youtube.com/]",
 	cooldowns: 10,
 	dependencies: {
 		"ytdl-core": "",
